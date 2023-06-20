@@ -21,7 +21,7 @@ const LogoImgDark = () => {
             sx={{
               color: "rgba(55,152,213,0.98)",
               fontWeight: "bold",
-              fontSize: 20,
+              fontSize: 18,
             }}
           >
             JERSEY BEHAVIORAL CARE
