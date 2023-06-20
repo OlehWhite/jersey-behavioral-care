@@ -63,7 +63,7 @@ interface Post {
 const ID = "jerseyBehavioralCareTelEmailAddress";
 const ID_Links = "jerseyBehavioralCareAllLinksIstagramLinked";
 const IDPosts = "aboutFranchising";
-const IDWorkingHours = "jerseyBehavioralCareWorkingHours";
+const IDWorkingHours = "positiveresetWorkingHours";
 
 export const Footer: FC = () => {
   const [telNum, setTelNum] = useState<string>("");
